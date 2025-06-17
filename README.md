@@ -1,4 +1,4 @@
-# Dust Cleaner: The Last Janitor of the Cosmos
+# Big Friendly Bubbler: The Last Janitor of the Cosmos
 
 Welcome to the sweet yet tainted universe of "Dust Cleaner"! Step into the boots of the last cosmic janitor, tasked with restoring the brilliance of candy-coated planets, overrun by a mysterious "filthy blight."
 
@@ -10,5 +10,5 @@ The "Great Contamination" began with whispers—a strange brown goo oozing from 
 
 Now, once-crisp candy canes splinter with filth. Donut cities have collapsed under layers of grime. Chocolate rivers flow with rancid sludge. The universe's most beloved treats are rotting from the inside—and only one man can scrub away the filth and restore the candy to its former glory.
 
-## Trailer
-https://streamable.com/3k2y5z
+## GlobalGameJam
+https://globalgamejam.org/games/2025/big-friendly-bubbler-3
