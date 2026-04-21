@@ -2,6 +2,9 @@
 
 Welcome to the sweet yet tainted universe of "Dust Cleaner"! Step into the boots of the last cosmic janitor, tasked with restoring the brilliance of candy-coated planets, overrun by a mysterious "filthy blight."
 
+<img width="800" height="450" alt="obraz" src="https://github.com/user-attachments/assets/ab57899c-0e9a-4895-9cc9-c6ee96eb5e44" />
+
+
 ## Lore and Story:
 
 Once brimming with joy and sweetness, the Candy Worlds were the heart of the universe's delight. Lollipop forests, caramel rivers, and gummy palaces shimmered like jewels. Alas, a terrible disaster transformed this paradise into a nightmare.
