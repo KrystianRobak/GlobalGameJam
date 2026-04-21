@@ -13,5 +13,8 @@ The "Great Contamination" began with whispers—a strange brown goo oozing from 
 
 Now, once-crisp candy canes splinter with filth. Donut cities have collapsed under layers of grime. Chocolate rivers flow with rancid sludge. The universe's most beloved treats are rotting from the inside—and only one man can scrub away the filth and restore the candy to its former glory.
 
+<img width="800" height="450" alt="obraz" src="https://github.com/user-attachments/assets/ef285904-8fdf-411e-b897-46c6dd96f609" />
+
+
 ## GlobalGameJam
 https://globalgamejam.org/games/2025/big-friendly-bubbler-3
